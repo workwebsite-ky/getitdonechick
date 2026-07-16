@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://getitdonechick.com/sitemap.xml
